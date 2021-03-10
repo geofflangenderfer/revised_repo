@@ -1,3 +1,0 @@
-Clean Directory
-- add practice and solved folders to differentiate between solutions and not.
-- moved report to `README.md`. This is a special file that renders into the document you see in your repo in the browser.
